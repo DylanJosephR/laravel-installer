@@ -15,8 +15,9 @@ wget --no-check-certificate -O -  \
 
 ```
 
-And run it:
+And run the following:
 ```
+bash before-install.sh
 time bash /tmp/laravel.sh
 ```
 
